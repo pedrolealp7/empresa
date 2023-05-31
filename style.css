@@ -2,12 +2,32 @@
     padding: 0%;
     margin: 0%;
     background-color: white;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
 }
 header{
-width: 100%;
+width: %;
 height: 400px;
 display: block;
 background-image: url(https://blog.123milhas.com/wp-content/uploads/2022/10/conheca-dez-padarias-em-sao-paulo-que-vendem-muito-mais-que-paezinhos-conexao123.jpg);
 
 }
+img{
+ width:50%;
+ height: 300px;
+
+}
+main article{
+    width: 90%;
+    height: auto;
+    display: block;
+    border: 1px solid red;
+    margin-left: 50px;
+    margin-top: 10px;
+    text-align: center;
+
+}
+body h5{
+    background-size: 50px;
+}
+
+
